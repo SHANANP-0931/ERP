@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "name": "sha",
+      "email": "s@gmail.com",
+      "department": "aeronautical",
+      "id": "23b4"
+    },
+    {
+      "name": "shana",
+      "email": "shana@gmail.com",
+      "department": "civil",
+      "id": "a566"
+    },
+    {
+      "id": "3687",
+      "name": "shaaran",
+      "email": "shaaran@gmai.com",
+      "password": "1234"
+    },
+    {
+      "id": "52fd",
+      "name": "shmm",
+      "email": "shnm@gmail.com",
+      "password": "0987"
+    },
+    {
+      "id": "17c9",
+      "name": "whuyy",
+      "email": "gsh@gmail.comm",
+      "password": "234"
+    },
+    {
+      "id": "a9bd",
+      "name": "wer",
+      "email": "sdf@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "0ff6",
+      "name": "Sit excepturi dolor",
+      "email": "nenazuka@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "2f64",
+      "name": "Distinctio Optio r",
+      "email": "junumozury@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "35c7",
+      "name": "Adipisci quia saepe ",
+      "email": "mumomyni@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1462",
+      "name": "Velit perspiciatis",
+      "email": "vagyqewux@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "c727",
+      "name": "shana np",
+      "email": "shaana@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "fcdc",
+      "name": "shana",
+      "email": "sha@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "shana",
+      "email": "shananp@gmail.com",
+      "department": "aeronautical",
+      "id": "8f49"
+    }
+  ]
+}

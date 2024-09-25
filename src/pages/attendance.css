@@ -1,0 +1,80 @@
+.attendance-container {
+    padding: 20px;
+    background-color: #f7f9fc;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.month-selector {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.month-selector label {
+    margin-right: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+.month-selector select {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.attendance-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+.attendance-table th, .attendance-table td {
+    padding: 5px;
+    border: 1px solid #ddd;
+    text-align: center;
+    min-width: 20px;  /* Reduce column width */
+}
+
+.attendance-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    color: #333;
+}
+
+.attendance-table td input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+}
+
+.attendance-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.attendance-table td {
+    color: #555;
+}
+
+.attendance-table td:last-child {
+    font-weight: bold;
+    color: #fdfdfd; /* Red color for absent days */
+    background-color: red;
+}
+
+@media screen and (max-width: 768px) {
+    .attendance-table th, .attendance-table td {
+        padding: 3px;
+        font-size: 12px; /* Adjust font size for smaller screens */
+    }
+}

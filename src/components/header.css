@@ -1,0 +1,26 @@
+.header {
+    background-color: #575857; /* Change this to your desired color */
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+   height: 100px;
+   padding-left: 600px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    margin-right: 10px;
+   
+
+}
+
+h1 {
+    font-size: 24px;
+}

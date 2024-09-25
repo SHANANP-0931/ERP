@@ -1,0 +1,148 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "department": "Engineering",
+      "phone": "223",
+      "parentsDetails": "sdffxxs"
+    },
+    {
+      "id": "6e28",
+      "name": "Non nostrud quo recu",
+      "department": "Fugit molestiae asp",
+      "phone": "Voluptatem pariatur",
+      "parentsDetails": "Excepteur cillum non"
+    },
+    {
+      "id": "3bf6",
+      "name": "sam d john",
+      "department": "civil",
+      "phone": "123456781",
+      "parentsDetails": "alex d jhon"
+    }
+  ],
+  "attendance": [
+    {
+      "month": 9,
+      "attendance": {
+        "1": {
+          "1": true,
+          "2": false,
+          "3": true
+        },
+        "2": {
+          "1": true,
+          "2": true,
+          "3": true
+        }
+      },
+      "id": "2eec"
+    },
+    {
+      "id": "8128",
+      "month": 9,
+      "attendance": {
+        "1": {
+          "1": true,
+          "2": true,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": true,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false,
+          "11": false,
+          "12": false,
+          "13": false,
+          "14": false,
+          "15": false,
+          "16": false,
+          "17": false,
+          "18": false,
+          "19": false,
+          "20": false,
+          "21": false,
+          "22": false,
+          "23": false,
+          "24": false,
+          "25": false,
+          "26": false,
+          "27": false,
+          "28": false,
+          "29": false,
+          "30": false,
+          "31": false
+        },
+        "6e28": {
+          "1": true,
+          "2": true,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false,
+          "11": false,
+          "12": false,
+          "13": false,
+          "14": false,
+          "15": false,
+          "16": false,
+          "17": false,
+          "18": false,
+          "19": false,
+          "20": false,
+          "21": false,
+          "22": false,
+          "23": false,
+          "24": false,
+          "25": false,
+          "26": false,
+          "27": false,
+          "28": false,
+          "29": false,
+          "30": false,
+          "31": false
+        },
+        "3bf6": {
+          "1": true,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false,
+          "11": false,
+          "12": false,
+          "13": false,
+          "14": false,
+          "15": false,
+          "16": false,
+          "17": false,
+          "18": false,
+          "19": false,
+          "20": false,
+          "21": false,
+          "22": false,
+          "23": false,
+          "24": false,
+          "25": false,
+          "26": false,
+          "27": false,
+          "28": false,
+          "29": false,
+          "30": false,
+          "31": false
+        }
+      }
+    }
+  ]
+}
